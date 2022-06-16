@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nadhir58/compo-add.git/static/css/main.669b2f15.css",
+    "main.js": "/nadhir58/compo-add.git/static/js/main.46f9ebb9.js",
+    "static/js/787.7c21cf7d.chunk.js": "/nadhir58/compo-add.git/static/js/787.7c21cf7d.chunk.js",
+    "static/media/imgp.jpg": "/nadhir58/compo-add.git/static/media/imgp.39bd6b016f3d9e8549d7.jpg",
+    "index.html": "/nadhir58/compo-add.git/index.html",
+    "main.669b2f15.css.map": "/nadhir58/compo-add.git/static/css/main.669b2f15.css.map",
+    "main.46f9ebb9.js.map": "/nadhir58/compo-add.git/static/js/main.46f9ebb9.js.map",
+    "787.7c21cf7d.chunk.js.map": "/nadhir58/compo-add.git/static/js/787.7c21cf7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.669b2f15.css",
+    "static/js/main.46f9ebb9.js"
+  ]
+}
